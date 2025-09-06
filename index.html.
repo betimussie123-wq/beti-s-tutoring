@@ -3,16 +3,17 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-
+    
     <!-- Google verification -->
     <meta name="google-site-verification" content="In3h4c_yLXwiIGOyqfr4NY5bZcrD4Pam31yrQuf9vBM">
-
+    
     <!-- SEO Meta Tags -->
     <meta name="description" content="Professional tutoring services in Winnipeg for Math, Science, ELA, Biology, Chemistry and Physics. Online $30/hr, In-person $40/hr.">
     <meta name="keywords" content="tutoring, Winnipeg, math tutor, science tutor, online tutoring, in-person tutoring, biology, chemistry, physics, ELA">
     
     <title>Beti's Tutoring - Winnipeg</title>
-    <link rel="canonical" href="https://www.yourdomain.com" />
+    <link rel="canonical" href="https://betistutoring.github.io" />
+</head>
     
     <script src="https://cdn.tailwindcss.com"></script>
     <script>

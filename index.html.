@@ -8,15 +8,12 @@
     <meta name="google-site-verification" content="In3h4c_yLXwiIGOyqfr4NY5bZcrD4Pam31yrQuf9vBM">
 
     <!-- SEO Meta Tags -->
-    <title>Beti's Tutoring - Personalized Tutoring in Winnipeg</title>
     <meta name="description" content="Professional tutoring services in Winnipeg for Math, Science, ELA, Biology, Chemistry and Physics. Online $30/hr, In-person $40/hr.">
     <meta name="keywords" content="tutoring, Winnipeg, math tutor, science tutor, online tutoring, in-person tutoring, biology, chemistry, physics, ELA">
-    <meta name="author" content="Beti Mussie">
-
-    <!-- Canonical URL -->
-    <link rel="canonical" href="https://betimussie123-wq.github.io/">
-
-    <!-- CSS & Scripts -->
+    
+    <title>Beti's Tutoring - Winnipeg</title>
+    <link rel="canonical" href="https://www.yourdomain.com" />
+    
     <script src="https://cdn.tailwindcss.com"></script>
     <script>
         tailwind.config = {
